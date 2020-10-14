@@ -19,7 +19,6 @@ function generateMarkdown(data) {
 
 ## Description
 ${data.description}
-https://drive.google.com/file/d/1AuIXhefyMYKVi18F37i3LDwG3nZONddP/view
 
 ## Table of Contents
 
