@@ -41,7 +41,9 @@ ${data.test}
 
 ## Questions
 How to contact me:
-${data.email}
+
+Email: ${data.email}
+
 Github.com/${data.github}
 `;
 }
